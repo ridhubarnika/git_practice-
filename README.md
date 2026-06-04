@@ -1,2 +1,7 @@
-# git_practice-
-Git practice repository demonstrating commits, branching , merging, and version control concepts.
+## Git Operations Practiced
+- Clone
+- Add
+- Commit
+- Push
+- Branch
+- Merge
