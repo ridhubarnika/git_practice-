@@ -1,2 +1,1 @@
 Learning Git commands
-Practiced branching and merging
