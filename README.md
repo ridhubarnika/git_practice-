@@ -1,4 +1,4 @@
-## Git Operations Practiced
+# Git Operations Practiced
 - Clone
 - Add
 - Commit
